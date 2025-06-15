@@ -1,0 +1,12 @@
+.errorContainer {
+  background-color: #fee2e2;
+  border: 1px solid #fecaca;
+  color: #ef4444;
+  padding: 0.75rem 1rem;
+  border-radius: 0.375rem;
+  position: relative;
+}
+
+.errorText {
+  display: block;
+}
