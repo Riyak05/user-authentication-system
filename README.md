@@ -33,3 +33,6 @@ JWT_SECRET=your_jwt_secret
 - TypeScript
 - MongoDB with Mongoose
 - JWT Authentication
+
+
+## Few Website view
