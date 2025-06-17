@@ -1,5 +1,8 @@
 # User Authentication System
 
+
+![gif](https://github.com/user-attachments/assets/993b7111-a11d-43f7-bcbb-742d6abf0b06)
+
 A Next.js application with user authentication functionality including signup, signin, and protected routes.
 
 ## Features
@@ -33,9 +36,3 @@ JWT_SECRET=your_jwt_secret
 - TypeScript
 - MongoDB with Mongoose
 - JWT Authentication
-
-
-## Few Website view (gif)
-
-![gif](https://github.com/user-attachments/assets/993b7111-a11d-43f7-bcbb-742d6abf0b06)
-
