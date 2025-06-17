@@ -35,4 +35,7 @@ JWT_SECRET=your_jwt_secret
 - JWT Authentication
 
 
-## Few Website view
+## Few Website view (gif)
+
+![gif](https://github.com/user-attachments/assets/993b7111-a11d-43f7-bcbb-742d6abf0b06)
+
